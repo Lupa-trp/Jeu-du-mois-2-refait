@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/1.unity
+    guid: 8717b000d92388b499e1676d81a8b49e
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/2.unity
+    guid: 68b3d06a87b611d468cab0d0b498b46d
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/3.unity
+    guid: 471995d92103d0241962fb9568318b82
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push NO/4.unity
+    guid: 40962bded2b198b4a9366a65000765fa
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push NO/5.unity
+    guid: e780d066e2dd3c74c871a41a580e8597
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push NO/6.unity
+    guid: b0ee35cc1b849a84ca00e86bf1c2ec63
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/7.unity
+    guid: 3b8a7344e5bfc2b4da6a92805703a9eb
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/8.unity
+    guid: 872dd3644ed753f4ea67bcc890e3e336
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/9.unity
+    guid: 167ab8fd04c55af428ca0fa7fd30bf34
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/10.unity
+    guid: 69ef5fd3ab7089d4997d8407bff6ea2c
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/11.unity
+    guid: 61641af6181c11b4f9700beb04de5d0d
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/12.unity
+    guid: cde5545d17f582f46b04ec3d05e8fcec
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/13.unity
+    guid: d3de48990cfdcf34eabc9f05a865c1ab
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/14.unity
+    guid: a3a165893e588ab4488ee4c12c9e5b28
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/15.unity
+    guid: 7307c2b63680ca446a5e55b69d7c0a36
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/16.unity
+    guid: dc1907ea03d36df44a6660b68e168ff0
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/17.unity
+    guid: b9d49406946ea2142938d452481665ca
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Talk/18.unity
+    guid: f655d1cf87e4b9040a84436e86dc68c2
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Go to Menu/19.unity
+    guid: 2e3259b620d89fb49a88a6eb5eaff9e9
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Talk/20.unity
+    guid: 33028498706dc004fbf229ab26031abb
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Talk/21.unity
+    guid: b8582e33dca218441ba4f710fedca2b6
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Talk/22.unity
+    guid: 31b5223c99134b1458ab7d41fdff6f75
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Talk/23.unity
+    guid: 8829e474b6aae5f4580f98eb801a6d10
+  - enabled: 1
+    path: Assets/Scenes/PushPlay/Push OK/Push Go to Menu/24.unity
+    guid: ea4ecac502b46bf46ad5f8b4d858166c
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o1.unity
+    guid: 17e070d05fea0fb47bbb082cd05292ca
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o2.unity
+    guid: 28ce6a382aaaf4941985cbe4acfe0b98
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o3.unity
+    guid: 46aaa75a7645a034b8ee49fb78175016
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o4.unity
+    guid: d50acc570f18d01498202ad5c529359e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o5.unity
+    guid: 56e5f0616b1475945bd5d8114fbe4fa4
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o6.unity
+    guid: 254bf710eb0dedc408e038221c766f89
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o7.unity
+    guid: 6ca8d63cefa0a3041b07c9b397e1487e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o8.unity
+    guid: bebfae0a4002b9c4e80c64a3bddce71b
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o9.unity
+    guid: e84d67b06d8f20249b438b902522f882
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o10.unity
+    guid: ed3b97c3781e2ca4db56359685fcd3a2
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o11.unity
+    guid: e432b95c684838c47a398d261ca43548
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o12.unity
+    guid: 293be5c99b18e7d4bbf1c2ae9dd8cfa5
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o13.unity
+    guid: 998a52b4b235349498d00e6623d9b0af
+  - enabled: 1
+    path: Assets/Scenes/Push Option/o14.unity
+    guid: 3c946140db5df2c45a331a088fbd694f
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push No/o15.unity
+    guid: ceab3b5e04b581643a0ed786c640ab04
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push No/OEnd.unity
+    guid: 17b2a281c47d61a43a49596652cdc69a
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/o16.unity
+    guid: b2b4149c5927cd649a1420a78a71e918
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/o17.unity
+    guid: 655a2ce34edb88d409fccca70a5e0b5d
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/o18.unity
+    guid: 24cc37ccf9f13cb49a759e7aa9a4526e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push Yes/o19.unity
+    guid: 69440fe9584caa14787fa3291d618c20
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o20.unity
+    guid: 5d33c702fe7d01645bc540000c76575b
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o21.unity
+    guid: d15264788e72d80438f56650c67e7be4
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o22.unity
+    guid: 2468cf5c0cf463e43a49bc4c5d459569
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o23.unity
+    guid: e882f66ddf33d6f46944815a0684ed4f
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o24.unity
+    guid: 6eb014ae797742b409dfe9205387cdda
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o25.unity
+    guid: 6c23b09de94a7c74489912cd2d73d1b4
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o26.unity
+    guid: 238b7c99a3f8c5b45841369ac1a90f54
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o27.unity
+    guid: 44db19399c3cb1a429f2952d66024fa6
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o28.unity
+    guid: 76e260e30499b09488a4f8930f831834
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o29.unity
+    guid: 40feb3c78855c384eb69b24901f52bc7
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o30.unity
+    guid: f122946088756ca4fb965cb72c3d001e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/o31.unity
+    guid: fc4230b68bae34348b87af07efc66430
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im Joe/o32.unity
+    guid: 7496088abb57d354ab8e171e91e8df8f
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im Joe/o33.unity
+    guid: c295ee97c3fc88d4bb88fec2a1e82269
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im Joe/o34.unity
+    guid: 8176949b19033404b92b933151d955fb
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im Joe/o40.unity
+    guid: 1c39f9a068378b04f94d7838d7c12962
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im Joe/o43.unity
+    guid: cafccdda372e78f4b9af028e52f8b73d
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o35.unity
+    guid: b80eca2bcd91ce647a5040337f94828e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o36.unity
+    guid: 8e2d19e78cfbb2947ad6dc342b46817b
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o37.unity
+    guid: c292bbe0e82491f4d890e73529eee29d
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o38.unity
+    guid: c7927bd361086054bbb8e6a5013cece7
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o39.unity
+    guid: 027d184fa2416cf46b7c2c12d5f19613
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o41.unity
+    guid: 9d0254dfc7d56ad4db54c70863c0f64e
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push Yes/Push No/Push Im not Joe/o42.unity
+    guid: 2e72bd097dc8b5c4f866e4512e380218
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex1.unity
+    guid: 97206e437f516b34a8afbd5b357b8e3c
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex2.unity
+    guid: 1d76c173df5f121438d8efec3a079874
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex3.unity
+    guid: 14adaf40ac6953445a13b24d80685788
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex4.unity
+    guid: 851e75ed017fba1479e2be6a636ddb5a
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex5.unity
+    guid: 559c506b03c731f4baa3be5aa77adc95
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex6.unity
+    guid: 1d71714331183cc4e9284bc1dd43613c
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex7.unity
+    guid: edb135516c086d54084ae425c6e6f266
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex8.unity
+    guid: 4a9f017c15208064b92a7269bef6cefa
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex9.unity
+    guid: f3283dd392beef44685f59113fba50ad
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex10.unity
+    guid: 503eda51731b9ed48a29610a11ef9c2e
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex11.unity
+    guid: d381638e35a393047b38a6a0899b8548
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex12.unity
+    guid: e4612f667c4075549a0eb7d88a4f32c9
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex13.unity
+    guid: ce00d95c3036f8d4da52e86d036e9daf
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex14.unity
+    guid: 44d65af52d56ae94888e8136fa5df311
+  - enabled: 1
+    path: Assets/Scenes/PushExtra/Ex15.unity
+    guid: ab73f1d87ef0100409ccaf11bcfdc6f0
+  - enabled: 1
+    path: Assets/Scenes/Menu2.unity
+    guid: a13a7c19deb82ef40ac4e9e708b93e8c
+  - enabled: 1
+    path: Assets/Scenes/Push Option/Push No/HelloAgain.unity
+    guid: 323ef90fceed8644cb2e8558e9d905ed
+  m_configObjects: {}
